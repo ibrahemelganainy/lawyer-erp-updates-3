@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "build": 1,
   "mandatory": false,
-  "download_url": "https://github.com/ibrahemelganainy/lawyer-erp-updates-3/releases/download/v1.1.0/LexOfficeSetup.exe",
+  "download_url": "https://github.com/ibrahemelganainy/lawyer-erp-updates-3/releases/download/v1.1.0/LexOfficeSetup.zip",
   "changelog": [
     "تحسين نظام النسخ الاحتياطي",
     "إضافة نظام التحديث التلقائي",
